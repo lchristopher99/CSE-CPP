@@ -1,0 +1,10 @@
+tomatoes 12
+apples 20
+oranges 35
+cucumbers 13
+potatoes 14
+bananas 27
+grapes 50
+limes 34
+peaches 23
+broccoli 45

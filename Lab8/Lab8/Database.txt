@@ -1,0 +1,14 @@
+Bakery
+A Place where things like bread and wheat are made.
+Football
+A Sport Americans enjoy.
+University
+An institution of higher learning.
+Biology
+The study of living things.
+Computer Science
+the study of the principles and use of computers.
+Programming Language
+An artifical language designed to communicate instructions to a computer.
+Variable
+A piece of data in memory location given a name in a program.
